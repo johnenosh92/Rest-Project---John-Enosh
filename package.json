@@ -1,0 +1,20 @@
+{
+  "name": "httpverbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Palash_Debsharma@bitbucket.org/myself_alone/http.git"
+  },
+  "author": "Palash Debsharma",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/myself_alone/http#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3"
+  }
+}
